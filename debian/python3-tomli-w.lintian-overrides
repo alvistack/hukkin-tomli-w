@@ -1,0 +1,4 @@
+python3-tomli-w: copyright-without-copyright-notice
+python3-tomli-w: initial-upload-closes-no-bugs
+python3-tomli-w: no-manual-page
+python3-tomli-w: zero-byte-file-in-doc-directory
